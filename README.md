@@ -1,4 +1,5 @@
-
+## LIVE DEMO https://fornevercollective.github.io/fix/
+## LIVE FIGMA DEMO https://admin-raid-38603598.figma.site
 <img width="1533" alt="Screenshot 2025-06-14 at 10 20 47 PM" src="https://github.com/user-attachments/assets/93376afd-5e27-4911-baeb-4556da2c21b7" />
 <img width="1533" alt="Screenshot 2025-06-14 at 10 20 36 PM" src="https://github.com/user-attachments/assets/9d590e73-66c5-4a25-ae42-899b1b4eb26e" />
 <img width="1533" alt="Screenshot 2025-06-14 at 10 21 16 PM" src="https://github.com/user-attachments/assets/2447b84a-be2c-4728-9715-d498682c124c" />

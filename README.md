@@ -1,3 +1,4 @@
+>new cross-platform editor developable and able to work with ai
 ## LIVE DEMO https://fornevercollective.github.io/fix/
 ## LIVE FIGMA DEMO https://admin-raid-38603598.figma.site
 <img width="1533" alt="Screenshot 2025-06-14 at 10 20 47 PM" src="https://github.com/user-attachments/assets/93376afd-5e27-4911-baeb-4556da2c21b7" />

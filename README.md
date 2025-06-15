@@ -5,7 +5,7 @@
 <img width="1533" alt="Screenshot 2025-06-14 at 10 21 01 PM" src="https://github.com/user-attachments/assets/8c481540-999e-416b-abb8-6974f19f92f5" />
 <img width="1533" alt="Screenshot 2025-06-14 at 10 21 05 PM" src="https://github.com/user-attachments/assets/cbc168e2-1b0b-4d80-9ef2-1dcbd1b41226" />
 
-# VFX Studio - Professional Video Effects & Editing Environment
+# fix - Image / Audio / Video / 3d Editing Environment
 
 A modern, web-based VFX and video editing application built with React and TypeScript, featuring a distinctive pure black and white theme and comprehensive professional tools.
 
